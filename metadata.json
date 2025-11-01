@@ -1,0 +1,7 @@
+{
+  "name": "Modern Weather App",
+  "description": "A modern, beautiful weather application that provides real-time weather data and forecasts using the Gemini API. It can automatically detect the user's location or search for any city worldwide.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
